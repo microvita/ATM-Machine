@@ -5,3 +5,4 @@
    - Check Balance
    - Withdraw Money
    - Deposit Money
+   - Change PIN
